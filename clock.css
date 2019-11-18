@@ -1,0 +1,24 @@
+#time {
+	color: #FFFFFF;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 96px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+#note {
+	color: #FFFFFF;
+	position: fixed;
+	text-align: center;
+	bottom: 16px;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+body {
+	background-color: #6666ff;
+}
